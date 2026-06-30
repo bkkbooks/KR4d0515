@@ -1,0 +1,64 @@
+canonical_identifier: bkk:krp/KR4d0515/WYG/v1
+canonical_location: https://kanripo.org/bkk/KR4d0515/WYG/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 杏庭摘稾
+  date: '2015-08-25 00:12:47.569432'
+  source:
+    repository: kanripo
+    path: KR4d0515
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR4d0515_000-WYG.yaml, hash: 'sha256:13bce5218524f13cbd6a10ab52fdfba7284c7325e1882ac6128b159d7bdc9a0b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR4d0515_000-WYG.markers.yaml, hash: 'sha256:9b2931744a95e2f801a02a72738cfd93a4f5fcc967783ebd930e1927ba2731ac'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR4d0515_WYG_000-1a
+    span:
+    - body
+    - 0
+    - 375
+  label: 提要
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4d0515_WYG_000-3a
+    span:
+    - body
+    - 375
+    - 934
+  label: 原序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4d0515_WYG_000-5a
+    span:
+    - body
+    - 934
+    - 1560
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR4d0515_WYG_000-7a
+    span:
+    - body
+    - 1560
+    - 7090
+  label: 杏庭摘槀
+  type: section
+  level: 1
+hash: sha256:2bc72bcf29762d04b4f8521c10e7ce0137160da49b97a0713327d68c3a7d1362
