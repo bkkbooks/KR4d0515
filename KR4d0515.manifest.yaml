@@ -20,9 +20,9 @@ editions:
   label: 【四庫全書・文淵閣】
 assets:
   parts:
-  - {seq: 0, filename: KR4d0515_000.yaml, hash: 'sha256:f760d7b5f0c14723563bb59c6862f692d9e3dfebac234e7161f4bae54cdd5a4a'}
+  - {seq: 0, filename: KR4d0515_000.yaml, hash: 'sha256:4f31a30bef6ddecb2df451994fce64f6c81000127d9435fbfd9ded028df3a2f9'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0515_000.markers.yaml, hash: 'sha256:2ac2c4cbcaf2d773801550fe801b6ba7ee73013acc0a7668a869b088b3d26a7d'}
+  - {seq: 0, role: markers, filename: assets/KR4d0515_000.markers.yaml, hash: 'sha256:a1a0321c120620900d85fa9e13b9cce6b7af834ef6d79b8c438aba705c24bd8d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -64,7 +64,4 @@ table_of_contents:
   label: 杏庭摘槀
   type: section
   level: 1
-hash: sha256:2cf9764d40a62ee69896c7fff1513d8cb55bce0a2a2fe128c570d4f46d7cf9af
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1dde2e2796d187110f16fb5444987e1f6184a6995eede478a3b88ca48aaafc43
