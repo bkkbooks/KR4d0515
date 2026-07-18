@@ -22,7 +22,7 @@ assets:
   parts:
   - {seq: 0, filename: KR4d0515_000.yaml, hash: 'sha256:a8dcdbfb6aba2d41493a93b3faed3a60a6e1a3411387291780c51b26406688ca'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0515_000.markers.yaml, hash: 'sha256:0f9eb67252325e2f9a09b585cda4c86a655af196b4ac82fe219c1eeedf9ae8d7'}
+  - {seq: 0, role: markers, filename: assets/KR4d0515_000.markers.yaml, hash: 'sha256:434bf3ecec1f23cf759a4aa47be5467347b0323418b8ba50837611595a8054c7'}
 table_of_contents:
 - ref:
     seq: 0
@@ -64,7 +64,7 @@ table_of_contents:
   label: 杏庭摘槀
   type: section
   level: 1
-hash: sha256:4d854f525e84e26de59fe6b87c606109a9ede360aad9320c334fcbe032bf3740
+hash: sha256:d874cd8fdcbcd10b9efc669634f413ee69f73e97c0a9bde94b291ffd5dd463d6
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

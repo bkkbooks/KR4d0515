@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR4d0515_000-WYG.yaml, hash: 'sha256:13bce5218524f13cbd6a10ab52fdfba7284c7325e1882ac6128b159d7bdc9a0b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR4d0515_000-WYG.markers.yaml, hash: 'sha256:9b2931744a95e2f801a02a72738cfd93a4f5fcc967783ebd930e1927ba2731ac'}
+  - {seq: 0, role: markers, filename: assets/KR4d0515_000-WYG.markers.yaml, hash: 'sha256:ab20900d2c869c76ee6893850907932debf0fb9699c9d0164d98ff880f9200de'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,4 +61,4 @@ table_of_contents:
   label: 杏庭摘槀
   type: section
   level: 1
-hash: sha256:2bc72bcf29762d04b4f8521c10e7ce0137160da49b97a0713327d68c3a7d1362
+hash: sha256:0cb9b1e6bf9f3f596eb6ca7577e23ee9f00cd36478f5980d8c8a26dcb8b5950b
